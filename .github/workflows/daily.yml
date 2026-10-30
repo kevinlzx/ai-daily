@@ -34,6 +34,14 @@ jobs:
       - name: Render platform versions
         run: python -m src.publish
 
+      - name: Generate cover image
+        run: python -m src.cover
+        env:
+          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
+
+      - name: Generate inline covers
+        run: python -m src.inline_imgs
+
       - name: Build docx for batch import
         run: python -m src.to_docx
 
