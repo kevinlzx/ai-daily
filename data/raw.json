@@ -1,85 +1,45 @@
 {
-  "generated_ts": 1793329560,
+  "generated_ts": 1793409835,
   "days": 2,
-  "count": 79,
+  "count": 86,
   "items": [
     {
-      "title": "Patrick Stewart has died",
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "source": "HN",
-      "ts": 1793329560,
-      "score": 2504,
+      "ts": 1793409835,
+      "score": 771,
       "summary": ""
     },
     {
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "source": "HN",
-      "ts": 1793329560,
-      "score": 1241,
+      "ts": 1793409835,
+      "score": 501,
       "summary": ""
     },
     {
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
       "source": "HN",
-      "ts": 1793329560,
-      "score": 819,
+      "ts": 1793409835,
+      "score": 357,
       "summary": ""
     },
     {
-      "title": "DoorDash to acquire Instacart",
-      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
       "source": "HN",
-      "ts": 1793329560,
-      "score": 438,
+      "ts": 1793409835,
+      "score": 306,
       "summary": ""
     },
     {
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "source": "HN",
-      "ts": 1793329560,
-      "score": 367,
-      "summary": ""
-    },
-    {
-      "title": "H.264 Is Magic (2016)",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "source": "HN",
-      "ts": 1793329560,
-      "score": 350,
-      "summary": ""
-    },
-    {
-      "title": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
       "source": "GitHub",
-      "ts": 1793329560,
-      "score": 300,
-      "summary": ""
-    },
-    {
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub",
-      "ts": 1793329560,
-      "score": 300,
-      "summary": ""
-    },
-    {
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "source": "GitHub",
-      "ts": 1793329560,
-      "score": 300,
-      "summary": ""
-    },
-    {
-      "title": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "source": "GitHub",
-      "ts": 1793329560,
+      "ts": 1793409835,
       "score": 300,
       "summary": ""
     },
@@ -87,31 +47,15 @@
       "title": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "source": "GitHub",
-      "ts": 1793329560,
+      "ts": 1793409835,
       "score": 300,
       "summary": ""
     },
     {
-      "title": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub",
-      "ts": 1793329560,
-      "score": 300,
-      "summary": ""
-    },
-    {
-      "title": "elayadesign/ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "source": "GitHub",
-      "ts": 1793329560,
-      "score": 300,
-      "summary": ""
-    },
-    {
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "source": "GitHub",
-      "ts": 1793329560,
+      "ts": 1793409835,
       "score": 300,
       "summary": ""
     },
@@ -119,7 +63,71 @@
       "title": "CopilotKit/OpenBot",
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub",
-      "ts": 1793329560,
+      "ts": 1793409835,
+      "score": 300,
+      "summary": ""
+    },
+    {
+      "title": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "source": "GitHub",
+      "ts": 1793409835,
+      "score": 300,
+      "summary": ""
+    },
+    {
+      "title": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "source": "GitHub",
+      "ts": 1793409835,
+      "score": 300,
+      "summary": ""
+    },
+    {
+      "title": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "source": "GitHub",
+      "ts": 1793409835,
+      "score": 300,
+      "summary": ""
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub",
+      "ts": 1793409835,
+      "score": 300,
+      "summary": ""
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "source": "GitHub",
+      "ts": 1793409835,
+      "score": 300,
+      "summary": ""
+    },
+    {
+      "title": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "source": "GitHub",
+      "ts": 1793409835,
+      "score": 300,
+      "summary": ""
+    },
+    {
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "source": "GitHub",
+      "ts": 1793409835,
+      "score": 300,
+      "summary": ""
+    },
+    {
+      "title": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "source": "GitHub",
+      "ts": 1793409835,
       "score": 300,
       "summary": ""
     },
@@ -127,151 +135,383 @@
       "title": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "source": "GitHub",
-      "ts": 1793329560,
+      "ts": 1793409835,
       "score": 300,
       "summary": ""
     },
     {
-      "title": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
-      "ts": 1793329560,
+      "ts": 1793409835,
       "score": 300,
       "summary": ""
     },
     {
-      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-      "source": "HN",
-      "ts": 1793329560,
-      "score": 297,
+      "title": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "source": "GitHub",
+      "ts": 1793409835,
+      "score": 300,
       "summary": ""
     },
     {
-      "title": "If IPv4 were land",
-      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
       "source": "HN",
-      "ts": 1793329560,
+      "ts": 1793409835,
+      "score": 261,
+      "summary": ""
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "source": "HN",
+      "ts": 1793409835,
       "score": 241,
       "summary": ""
     },
     {
-      "title": "IFTTT.ai",
-      "url": "https://www.producthunt.com/products/ifttt",
+      "title": "The federated code forge",
+      "url": "https://tangled.org/blog/forge/",
+      "source": "HN",
+      "ts": 1793409835,
+      "score": 230,
+      "summary": ""
+    },
+    {
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "source": "HN",
+      "ts": 1793409835,
+      "score": 215,
+      "summary": ""
+    },
+    {
+      "title": "StereoLift Live",
+      "url": "https://www.producthunt.com/products/stereolift-live",
       "source": "ProductHunt",
-      "ts": 1793329122,
+      "ts": 1793399706,
       "score": 200,
-      "summary": "The easiest way to automate anything Discussion | Link"
+      "summary": "your desktop in real 3D, live on your Quest Discussion | Link"
+    },
+    {
+      "title": "ilse",
+      "url": "https://www.producthunt.com/products/ilse",
+      "source": "ProductHunt",
+      "ts": 1793403110,
+      "score": 200,
+      "summary": "Point at your app and your AI agent changes the code Discussion | Link"
+    },
+    {
+      "title": "StepGrab",
+      "url": "https://www.producthunt.com/products/stepgrab",
+      "source": "ProductHunt",
+      "ts": 1793405496,
+      "score": 200,
+      "summary": "Now on Windows, with redaction and a real editor Discussion | Link"
+    },
+    {
+      "title": "Norah Studio",
+      "url": "https://www.producthunt.com/products/norah-studio",
+      "source": "ProductHunt",
+      "ts": 1793397024,
+      "score": 200,
+      "summary": "A new space to explore your music Discussion | Link"
+    },
+    {
+      "title": "sitesolide",
+      "url": "https://www.producthunt.com/products/sitesolide",
+      "source": "ProductHunt",
+      "ts": 1793399745,
+      "score": 200,
+      "summary": "Deploy your vibe-coded apps on your own server Discussion | Link"
+    },
+    {
+      "title": "fastbrowse",
+      "url": "https://www.producthunt.com/products/fastbrowse",
+      "source": "ProductHunt",
+      "ts": 1793409623,
+      "score": 200,
+      "summary": "Fastest open source browser agent Discussion | Link"
+    },
+    {
+      "title": "Vaani Developer Platform",
+      "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
+      "source": "ProductHunt",
+      "ts": 1793409627,
+      "score": 200,
+      "summary": "The only voice AI harness that you'll ever need Discussion | Link"
+    },
+    {
+      "title": "SpeakON Agent",
+      "url": "https://www.producthunt.com/products/speakon",
+      "source": "ProductHunt",
+      "ts": 1793409776,
+      "score": 200,
+      "summary": "Turn natural speech into real work for an agent to complete Discussion | Link"
+    },
+    {
+      "title": "Cluinn",
+      "url": "https://www.producthunt.com/products/cluinn",
+      "source": "ProductHunt",
+      "ts": 1793397023,
+      "score": 200,
+      "summary": "Answers your questions during the call, not after. For Mac. Discussion | Link"
+    },
+    {
+      "title": "Teable Mobile",
+      "url": "https://www.producthunt.com/products/teable-4",
+      "source": "ProductHunt",
+      "ts": 1793409330,
+      "score": 200,
+      "summary": "Build the systems your team runs on, now from your phone Discussion | Link"
+    },
+    {
+      "title": "SparkBots AI (Powered by Jev)",
+      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+      "source": "ProductHunt",
+      "ts": 1793407576,
+      "score": 200,
+      "summary": "Instantly extract key details and analyze any webpage or PDF Discussion | Link"
+    },
+    {
+      "title": "iSurge",
+      "url": "https://www.producthunt.com/products/isurge",
+      "source": "ProductHunt",
+      "ts": 1793408182,
+      "score": 200,
+      "summary": "Activity monitor, per-app volume, disk cleanup at your notch Discussion | Link"
+    },
+    {
+      "title": "Canva Brush",
+      "url": "https://www.producthunt.com/products/canva",
+      "source": "ProductHunt",
+      "ts": 1793409697,
+      "score": 200,
+      "summary": "A vision-language model that edits your designs Discussion | Link"
+    },
+    {
+      "title": "MCP Server by XWiki",
+      "url": "https://www.producthunt.com/products/xwiki",
+      "source": "ProductHunt",
+      "ts": 1793409515,
+      "score": 200,
+      "summary": "Give your AI your wiki's knowledge while keeping the control Discussion | Link"
+    },
+    {
+      "title": "Faylee",
+      "url": "https://www.producthunt.com/products/faylee",
+      "source": "ProductHunt",
+      "ts": 1793408787,
+      "score": 200,
+      "summary": "Bug reports your coding agent can fix from one link Discussion | Link"
+    },
+    {
+      "title": "Nocto",
+      "url": "https://www.producthunt.com/products/nocto",
+      "source": "ProductHunt",
+      "ts": 1793401095,
+      "score": 200,
+      "summary": "Your MacBook notch, finally useful Discussion | Link"
+    },
+    {
+      "title": "Axonnic",
+      "url": "https://www.producthunt.com/products/axonnic",
+      "source": "ProductHunt",
+      "ts": 1793405041,
+      "score": 200,
+      "summary": "Muscle-sensing sleeves for robot training Discussion | Link"
+    },
+    {
+      "title": "Kestrix",
+      "url": "https://www.producthunt.com/products/kestrix",
+      "source": "ProductHunt",
+      "ts": 1793397024,
+      "score": 200,
+      "summary": "Repo-agnostic CI control plane with DAG-based triggers. Discussion | Link"
+    },
+    {
+      "title": "Knocket AI",
+      "url": "https://www.producthunt.com/products/knocket-ai",
+      "source": "ProductHunt",
+      "ts": 1793409631,
+      "score": 200,
+      "summary": "Chat with visitors from your website or link Discussion | Link"
+    },
+    {
+      "title": "Chopstick",
+      "url": "https://www.producthunt.com/products/chopstick",
+      "source": "ProductHunt",
+      "ts": 1793408174,
+      "score": 200,
+      "summary": "Mac activity and action widgets that write themselves Discussion | Link"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "url": "https://www.producthunt.com/products/gemini-4-carbon",
+      "source": "ProductHunt",
+      "ts": 1793401982,
+      "score": 200,
+      "summary": "Google's next frontier model Discussion | Link"
+    },
+    {
+      "title": "Enclave",
+      "url": "https://www.producthunt.com/products/enclave-2",
+      "source": "ProductHunt",
+      "ts": 1793354703,
+      "score": 200,
+      "summary": "One hover, everything you need. Discussion | Link"
+    },
+    {
+      "title": "AssemblyAI",
+      "url": "https://www.producthunt.com/products/assemblyai",
+      "source": "ProductHunt",
+      "ts": 1793365178,
+      "score": 200,
+      "summary": "text-to-speech built for voice agents Discussion | Link"
     },
     {
       "title": "Radar",
       "url": "https://www.producthunt.com/products/radar-7",
       "source": "ProductHunt",
-      "ts": 1793325750,
+      "ts": 1793405540,
       "score": 200,
       "summary": "You don't need an AI SRE. Give your agent Radar. Discussion | Link"
     },
     {
-      "title": "MAO",
-      "url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
+      "title": "Arco",
+      "url": "https://www.producthunt.com/products/arco-4",
       "source": "ProductHunt",
-      "ts": 1793329173,
+      "ts": 1793408464,
       "score": 200,
-      "summary": "Team up Claude Code, Codex and Grok on one canvas Discussion | Link"
+      "summary": "GitHub and Linear issues, right inside your Codex Discussion | Link"
     },
     {
-      "title": "Empacer",
-      "url": "https://www.producthunt.com/products/empacer",
+      "title": "Scape",
+      "url": "https://www.producthunt.com/products/scape-4",
       "source": "ProductHunt",
-      "ts": 1793329443,
+      "ts": 1793399838,
       "score": 200,
-      "summary": "The voice-first assistant for small business owners Discussion | Link"
-    },
-    {
-      "title": "AfterLid",
-      "url": "https://www.producthunt.com/products/afterlid",
-      "source": "ProductHunt",
-      "ts": 1793328212,
-      "score": 200,
-      "summary": "Keep your Mac working. Check in from your phone. Discussion | Link"
+      "summary": "An intelligent email inbox that works for you Discussion | Link"
     },
     {
       "title": "OutreachGuy",
       "url": "https://www.producthunt.com/products/outreachguy",
       "source": "ProductHunt",
-      "ts": 1793329208,
+      "ts": 1793354705,
       "score": 200,
       "summary": "The AI SDR that works the leads you never followed up Discussion | Link"
-    },
-    {
-      "title": "ChatInbox",
-      "url": "https://www.producthunt.com/products/chatinbox-2",
-      "source": "ProductHunt",
-      "ts": 1793318309,
-      "score": 200,
-      "summary": "Email that groups your inbox by contact Discussion | Link"
-    },
-    {
-      "title": "Kin",
-      "url": "https://www.producthunt.com/products/kin-6",
-      "source": "ProductHunt",
-      "ts": 1793322928,
-      "score": 200,
-      "summary": "The AI labs want to own you. Make them answer to you. Discussion | Link"
-    },
-    {
-      "title": "StoreLocale",
-      "url": "https://www.producthunt.com/products/storelocale",
-      "source": "ProductHunt",
-      "ts": 1793327394,
-      "score": 200,
-      "summary": "Translate app UI in App Store & Google Play screenshots Discussion | Link"
-    },
-    {
-      "title": "AutoShelf 2.6",
-      "url": "https://www.producthunt.com/products/autoshelf",
-      "source": "ProductHunt",
-      "ts": 1793319137,
-      "score": 200,
-      "summary": "Automate any folder on your Mac with if-this-then-that rules Discussion | Link"
-    },
-    {
-      "title": "Suno MCP",
-      "url": "https://www.producthunt.com/products/suno",
-      "source": "ProductHunt",
-      "ts": 1793329159,
-      "score": 200,
-      "summary": "The music layerfor your AI stack Discussion | Link"
-    },
-    {
-      "title": "Voxel51 Multimodal",
-      "url": "https://www.producthunt.com/products/voxel51",
-      "source": "ProductHunt",
-      "ts": 1793326377,
-      "score": 200,
-      "summary": "Better data. Smarter robots. Repeat. Discussion | Link"
     },
     {
       "title": "Intrascope 2.0",
       "url": "https://www.producthunt.com/products/intrascope-app",
       "source": "ProductHunt",
-      "ts": 1793329159,
+      "ts": 1793385775,
       "score": 200,
       "summary": "New AI agent, 1,650+ apps, Skills and smart model routing Discussion | Link"
+    },
+    {
+      "title": "AutoShelf 2.6",
+      "url": "https://www.producthunt.com/products/autoshelf",
+      "source": "ProductHunt",
+      "ts": 1793354714,
+      "score": 200,
+      "summary": "Automate any folder on your Mac with if-this-then-that rules Discussion | Link"
+    },
+    {
+      "title": "Polylane for ChatGPT",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "ProductHunt",
+      "ts": 1793373844,
+      "score": 200,
+      "summary": "Ask ChatGPT what broke in production Discussion | Link"
+    },
+    {
+      "title": "Voxel51 Multimodal",
+      "url": "https://www.producthunt.com/products/voxel51",
+      "source": "ProductHunt",
+      "ts": 1793388636,
+      "score": 200,
+      "summary": "Better data. Smarter robots. Repeat. Discussion | Link"
     },
     {
       "title": "Confetti",
       "url": "https://www.producthunt.com/products/confetti-5",
       "source": "ProductHunt",
-      "ts": 1793329126,
+      "ts": 1793404828,
       "score": 200,
       "summary": "Easiest way to build hardware gadgets using plain English Discussion | Link"
+    },
+    {
+      "title": "IFTTT.ai",
+      "url": "https://www.producthunt.com/products/ifttt",
+      "source": "ProductHunt",
+      "ts": 1793400672,
+      "score": 200,
+      "summary": "The easiest way to automate anything Discussion | Link"
+    },
+    {
+      "title": "StoreLocale",
+      "url": "https://www.producthunt.com/products/storelocale",
+      "source": "ProductHunt",
+      "ts": 1793358921,
+      "score": 200,
+      "summary": "Translate app UI in App Store & Google Play screenshots Discussion | Link"
+    },
+    {
+      "title": "ChatInbox",
+      "url": "https://www.producthunt.com/products/chatinbox-2",
+      "source": "ProductHunt",
+      "ts": 1793354730,
+      "score": 200,
+      "summary": "Email that groups your inbox by contact Discussion | Link"
+    },
+    {
+      "title": "MAO",
+      "url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
+      "source": "ProductHunt",
+      "ts": 1793388161,
+      "score": 200,
+      "summary": "Team up Claude Code, Codex and Grok on one canvas Discussion | Link"
+    },
+    {
+      "title": "TopAgent",
+      "url": "https://www.producthunt.com/products/topmessage",
+      "source": "ProductHunt",
+      "ts": 1793400779,
+      "score": 200,
+      "summary": "Drive B2B event attendance with an AI agent Discussion | Link"
+    },
+    {
+      "title": "Empacer",
+      "url": "https://www.producthunt.com/products/empacer",
+      "source": "ProductHunt",
+      "ts": 1793407813,
+      "score": 200,
+      "summary": "The voice-first assistant for small business owners Discussion | Link"
+    },
+    {
+      "title": "Suno MCP",
+      "url": "https://www.producthunt.com/products/suno",
+      "source": "ProductHunt",
+      "ts": 1793381970,
+      "score": 200,
+      "summary": "The music layerfor your AI stack Discussion | Link"
+    },
+    {
+      "title": "AfterLid",
+      "url": "https://www.producthunt.com/products/afterlid",
+      "source": "ProductHunt",
+      "ts": 1793354716,
+      "score": 200,
+      "summary": "Keep your Mac working. Check in from your phone. Discussion | Link"
     },
     {
       "title": "Viggle JST-2",
       "url": "https://www.producthunt.com/products/viggle-ai",
       "source": "ProductHunt",
-      "ts": 1793322580,
+      "ts": 1793400687,
       "score": 200,
       "summary": "JST-2: 3D scenes, characters and motion from one model Discussion | Link"
     },
@@ -279,360 +519,176 @@
       "title": "Gologin Cloud Browser",
       "url": "https://www.producthunt.com/products/gologin",
       "source": "ProductHunt",
-      "ts": 1793329071,
+      "ts": 1793405733,
       "score": 200,
       "summary": "Cloud browser for AI agents and tough sites Discussion | Link"
-    },
-    {
-      "title": "Scape",
-      "url": "https://www.producthunt.com/products/scape-4",
-      "source": "ProductHunt",
-      "ts": 1793329022,
-      "score": 200,
-      "summary": "An intelligent email inbox that works for you Discussion | Link"
-    },
-    {
-      "title": "Polylane for ChatGPT",
-      "url": "https://www.producthunt.com/products/polylane",
-      "source": "ProductHunt",
-      "ts": 1793321322,
-      "score": 200,
-      "summary": "Ask ChatGPT what broke in production Discussion | Link"
-    },
-    {
-      "title": "TopAgent",
-      "url": "https://www.producthunt.com/products/topmessage",
-      "source": "ProductHunt",
-      "ts": 1793328354,
-      "score": 200,
-      "summary": "Drive B2B event attendance with an AI agent Discussion | Link"
-    },
-    {
-      "title": "Floot in ChatGPT",
-      "url": "https://www.producthunt.com/products/floot",
-      "source": "ProductHunt",
-      "ts": 1793328649,
-      "score": 200,
-      "summary": "Build and publish real apps without leaving ChatGPT Discussion | Link"
-    },
-    {
-      "title": "Arco",
-      "url": "https://www.producthunt.com/products/arco-4",
-      "source": "ProductHunt",
-      "ts": 1793319334,
-      "score": 200,
-      "summary": "GitHub and Linear issues, right inside your Codex Discussion | Link"
     },
     {
       "title": "Flatbread",
       "url": "https://www.producthunt.com/products/flatbread",
       "source": "ProductHunt",
-      "ts": 1793318352,
+      "ts": 1793390583,
       "score": 200,
       "summary": "Share the whole agent run, not a screenshot Discussion | Link"
-    },
-    {
-      "title": "Enclave",
-      "url": "https://www.producthunt.com/products/enclave-2",
-      "source": "ProductHunt",
-      "ts": 1793328907,
-      "score": 200,
-      "summary": "One hover, everything you need. Discussion | Link"
     },
     {
       "title": "Reset Alerts",
       "url": "https://www.producthunt.com/products/reset-alerts",
       "source": "ProductHunt",
-      "ts": 1793325024,
+      "ts": 1793372227,
       "score": 200,
       "summary": "Codex Reset Alerts via Text (Use it Before You Lose It) Discussion | Link"
     },
     {
-      "title": "Smart Jelly",
-      "url": "https://www.producthunt.com/products/smart-jelly",
+      "title": "Kin",
+      "url": "https://www.producthunt.com/products/kin-6",
       "source": "ProductHunt",
-      "ts": 1793328925,
+      "ts": 1793408613,
       "score": 200,
-      "summary": "Your everyday AI tools and memory in one Mac app. Discussion | Link"
+      "summary": "The AI labs want to own you. Make them answer to you. Discussion | Link"
     },
     {
-      "title": "AssemblyAI",
-      "url": "https://www.producthunt.com/products/assemblyai",
+      "title": "Floot in ChatGPT",
+      "url": "https://www.producthunt.com/products/floot",
       "source": "ProductHunt",
-      "ts": 1793324710,
+      "ts": 1793399838,
       "score": 200,
-      "summary": "text-to-speech built for voice agents Discussion | Link"
+      "summary": "Build and publish real apps without leaving ChatGPT Discussion | Link"
     },
     {
       "title": "JIMMY",
       "url": "https://www.producthunt.com/products/jimmy",
       "source": "ProductHunt",
-      "ts": 1793318308,
+      "ts": 1793372730,
       "score": 200,
       "summary": "JIMMY is an AI agent that runs on your PC Discussion | Link"
-    },
-    {
-      "title": "Recall for Mac",
-      "url": "https://www.producthunt.com/products/recall-for-mac",
-      "source": "ProductHunt",
-      "ts": 1793318538,
-      "score": 200,
-      "summary": "Remember everything that happens on your Mac Discussion | Link"
-    },
-    {
-      "title": "Gemini 4 Carbon",
-      "url": "https://www.producthunt.com/products/gemini-4-carbon",
-      "source": "ProductHunt",
-      "ts": 1793329100,
-      "score": 200,
-      "summary": "Google's next frontier model Discussion | Link"
     },
     {
       "title": "Notch Metrics",
       "url": "https://www.producthunt.com/products/notch-metrics",
       "source": "ProductHunt",
-      "ts": 1793329071,
+      "ts": 1793398226,
       "score": 200,
       "summary": "Use claude code to build analytics widgets for your notch Discussion | Link"
     },
     {
-      "title": "Genie 4",
-      "url": "https://www.producthunt.com/products/gemini-1-5-pro",
+      "title": "Smart Jelly",
+      "url": "https://www.producthunt.com/products/smart-jelly",
       "source": "ProductHunt",
-      "ts": 1793328650,
+      "ts": 1793354715,
       "score": 200,
-      "summary": "Turn a prompt into a living world you can steer Discussion | Link"
+      "summary": "Your everyday AI tools and memory in one Mac app. Discussion | Link"
     },
     {
-      "title": "Open For sales",
-      "url": "https://www.producthunt.com/products/open-for-sales",
+      "title": "Recall for Mac",
+      "url": "https://www.producthunt.com/products/recall-for-mac",
       "source": "ProductHunt",
-      "ts": 1793278945,
+      "ts": 1793383335,
       "score": 200,
-      "summary": "Your next sales campaign is one prompt away Discussion | Link"
+      "summary": "Remember everything that happens on your Mac Discussion | Link"
     },
     {
-      "title": "bytemail",
-      "url": "https://www.producthunt.com/products/bytemail",
-      "source": "ProductHunt",
-      "ts": 1793327654,
-      "score": 200,
-      "summary": "Native Mac email: every inbox, in your notch, no trackers Discussion | Link"
-    },
-    {
-      "title": "Dedica",
-      "url": "https://www.producthunt.com/products/dedica",
-      "source": "ProductHunt",
-      "ts": 1793328500,
-      "score": 200,
-      "summary": "Check if AI agents can use your website Discussion | Link"
-    },
-    {
-      "title": "Hob",
-      "url": "https://www.producthunt.com/products/hob-3",
-      "source": "ProductHunt",
-      "ts": 1793328651,
-      "score": 200,
-      "summary": "Open-source, on device alternative to Claude and ChatGPT Discussion | Link"
-    },
-    {
-      "title": "Tulu",
-      "url": "https://www.producthunt.com/products/tulu",
-      "source": "ProductHunt",
-      "ts": 1793318312,
-      "score": 200,
-      "summary": "Autonomous marketing operations & analytics for SMBs Discussion | Link"
-    },
-    {
-      "title": "Trigger.dev: Webhooks for your AI agents",
-      "url": "https://www.producthunt.com/products/trigger-dev",
-      "source": "ProductHunt",
-      "ts": 1793310936,
-      "score": 200,
-      "summary": "Run AI agents with Slack, Supabase and 50+ other services Discussion | Link"
-    },
-    {
-      "title": "Our Silly Games",
-      "url": "https://www.producthunt.com/products/our-silly-games",
-      "source": "ProductHunt",
-      "ts": 1793268370,
-      "score": 200,
-      "summary": "Skills to build games with Claude. Free multiplayer hosting. Discussion | Link"
-    },
-    {
-      "title": "Zro: Uncensored Security Models",
-      "url": "https://www.producthunt.com/products/zro",
-      "source": "ProductHunt",
-      "ts": 1793315754,
-      "score": 200,
-      "summary": "Abliterated open models for security work Discussion | Link"
-    },
-    {
-      "title": "LFM3 by Liquid AI",
-      "url": "https://www.producthunt.com/products/lfm2",
-      "source": "ProductHunt",
-      "ts": 1793310886,
-      "score": 200,
-      "summary": "Six 2B-class models for phones, laptops and robots Discussion | Link"
-    },
-    {
-      "title": "Yardlet",
-      "url": "https://www.producthunt.com/products/yardlet-2",
-      "source": "ProductHunt",
-      "ts": 1793292530,
-      "score": 200,
-      "summary": "The Mac app for the coding agents you already use Discussion | Link"
-    },
-    {
-      "title": "RageLayer",
-      "url": "https://www.producthunt.com/products/ragelayer",
-      "source": "ProductHunt",
-      "ts": 1793274729,
-      "score": 200,
-      "summary": "Let visitors smash your website, then sweep it back Discussion | Link"
-    },
-    {
-      "title": "Congress Trades",
-      "url": "https://www.producthunt.com/products/alpha-vantage",
-      "source": "ProductHunt",
-      "ts": 1793271815,
-      "score": 200,
-      "summary": "See how Congress members trade, and if copying them pays off Discussion | Link"
-    },
-    {
-      "title": "OpenLLM",
-      "url": "https://www.producthunt.com/products/openllm",
-      "source": "ProductHunt",
-      "ts": 1793328973,
-      "score": 200,
-      "summary": "Take your AI tokens anywhere Discussion | Link"
-    },
-    {
-      "title": "NotiKeep",
-      "url": "https://www.producthunt.com/products/notikeep",
-      "source": "ProductHunt",
-      "ts": 1793290809,
-      "score": 200,
-      "summary": "Notification history for iPhone, on your device Discussion | Link"
-    },
-    {
-      "title": "App Store Screenshots",
-      "url": "https://www.producthunt.com/products/app-store-screenshots",
-      "source": "ProductHunt",
-      "ts": 1793315780,
-      "score": 200,
-      "summary": "Your coding agent designs your app store screenshots Discussion | Link"
-    },
-    {
-      "title": "Mudroom",
-      "url": "https://www.producthunt.com/products/mudroom-3",
-      "source": "ProductHunt",
-      "ts": 1793293330,
-      "score": 200,
-      "summary": "Run coding agents in a VM, review changes like a PR Discussion | Link"
-    },
-    {
-      "title": "BotGauge",
-      "url": "https://www.producthunt.com/products/botgauge-2",
-      "source": "ProductHunt",
-      "ts": 1793326057,
-      "score": 200,
-      "summary": "The trust layer for your agents Discussion | Link"
-    },
-    {
-      "title": "Basedash View-only members",
-      "url": "https://www.producthunt.com/products/basedash",
-      "source": "ProductHunt",
-      "ts": 1793284660,
-      "score": 200,
-      "summary": "Share dashboards with anyone. They can look, not edit. Discussion | Link"
-    },
-    {
-      "title": "TONKO",
-      "url": "https://www.producthunt.com/products/tonko",
-      "source": "ProductHunt",
-      "ts": 1793307188,
-      "score": 200,
-      "summary": "Pocket money app that teaches kids about money Discussion | Link"
-    },
-    {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
       "source": "HN",
-      "ts": 1793329560,
-      "score": 195,
+      "ts": 1793409835,
+      "score": 198,
       "summary": ""
     },
     {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "title": "Bunny CDN Security Incident",
+      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
       "source": "HN",
-      "ts": 1793329560,
-      "score": 148,
+      "ts": 1793409835,
+      "score": 197,
       "summary": ""
     },
     {
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "url": "https://github.com/johncassil/dontallow",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
       "source": "HN",
-      "ts": 1793329560,
-      "score": 105,
+      "ts": 1793409835,
+      "score": 189,
       "summary": ""
     },
     {
-      "title": "ElementaryUI – Swift, in the Browser",
-      "url": "https://elementary.codes",
+      "title": "Linode Security Incident",
+      "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
       "source": "HN",
-      "ts": 1793329560,
-      "score": 68,
+      "ts": 1793409835,
+      "score": 140,
       "summary": ""
     },
     {
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "url": "https://journal.animationstudies.org/article/id/66/",
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
       "source": "HN",
-      "ts": 1793329560,
-      "score": 59,
+      "ts": 1793409835,
+      "score": 110,
       "summary": ""
     },
     {
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "url": "https://github.com/mottopanikeiku/doomformer",
+      "title": "Infinite Mac: BeOS",
+      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
       "source": "HN",
-      "ts": 1793329560,
+      "ts": 1793409835,
+      "score": 103,
+      "summary": ""
+    },
+    {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "source": "HN",
+      "ts": 1793409835,
+      "score": 98,
+      "summary": ""
+    },
+    {
+      "title": "AO3 Down for Maintenance",
+      "url": "https://www.otwstatus.org",
+      "source": "HN",
+      "ts": 1793409835,
+      "score": 89,
+      "summary": ""
+    },
+    {
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "source": "HN",
+      "ts": 1793409835,
+      "score": 87,
+      "summary": ""
+    },
+    {
+      "title": "How do you take a picture of a black hole?",
+      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "source": "HN",
+      "ts": 1793409835,
+      "score": 81,
+      "summary": ""
+    },
+    {
+      "title": "Jules Verne's Lost Novel",
+      "url": "https://blue-continuum.com/verne-paris",
+      "source": "HN",
+      "ts": 1793409835,
+      "score": 79,
+      "summary": ""
+    },
+    {
+      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "url": "https://www.firezone.dev/blog/introducing-sanstun",
+      "source": "HN",
+      "ts": 1793409835,
       "score": 55,
       "summary": ""
     },
     {
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50291116",
+      "title": "A Pickpocket's Guide to New York",
+      "url": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
       "source": "HN",
-      "ts": 1793329560,
-      "score": 54,
-      "summary": ""
-    },
-    {
-      "title": "The Great American Rascal: Tom Sawyer at 150",
-      "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-      "source": "HN",
-      "ts": 1793329560,
-      "score": 49,
-      "summary": ""
-    },
-    {
-      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-      "url": "https://projects.freehackers.org/sylphide-os/",
-      "source": "HN",
-      "ts": 1793329560,
-      "score": 45,
-      "summary": ""
-    },
-    {
-      "title": "Pico CSS is no longer maintained",
-      "url": "https://github.com/picocss/pico/discussions/754",
-      "source": "HN",
-      "ts": 1793329560,
-      "score": 40,
+      "ts": 1793409835,
+      "score": 51,
       "summary": ""
     }
   ]
